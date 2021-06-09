@@ -29,7 +29,7 @@ Requires MATLAB release R2019b or newer.
 The license for this tool is available in the [LICENSE.TXT](LICENSE.TXT) file in this GitHub repository.
 
 ## Community Support
-[MATLAB Central](https://www.mathworks.com/matlabcentral)
+[MATLAB® Central™](https://www.mathworks.com/matlabcentral)
 
 Copyright 2021 The MathWorks, Inc.
 
