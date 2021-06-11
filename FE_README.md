@@ -18,7 +18,7 @@ You can check whether your school has a Campus-Wide License here: https://www.ma
 ## Setup 
 To Run:
 1. Import your data or use the example data provided. The Live Script explains how to generate the correct report from [grader.mathworks.com](grader.mathworks.com).
-2. The script offers various ways to create the grade book e.g. allowing or not allowing late submissions, counting correctly solved problems or averaging percentage scores.Run all sections or just the sections generating the relevant metrics for your use-case.
+2. The script offers various ways to create the grade book e.g. allowing or not allowing late submissions, counting correctly solved problems or averaging percentage scores. Run all sections or just the sections generating the relevant metrics for your use-case.
 
 
 ### MathWorks Products (http://www.mathworks.com)
