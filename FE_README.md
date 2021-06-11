@@ -1,89 +1,35 @@
-# Full Repository Name 
+# Use assignment report from the MATLAB® Grader™ application to generate a grade book
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
-Add a brief description about your repo that is memorable and explains what your repo does.  The brief description should be consistent with how you answered Question 5, “Description” in the Proposal Form.
+This script shows how to generate a grade book from the assignment reports generated in the [MATLAB® Grader™ application](https://www.mathworks.com/products/matlab-grader.html). A grade book in this case refers to a list of students with a metric that defines how well they solved the problems within the assignemnt. It may show the number of problems they solved correctly or the mean percentage score they received for the problems.
 
-<!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
+This tool supports educators using MATLAB Grader who do not have access to MATLAB Grader within a learning management system. **If you have access to a Campus-Wide License and your university uses a learning management system (LMS) we strongly recommend to integrate MATLAB Grader into the LMS and to use the grade book provided by the LMS.** Refer to the documentation on [LMS Integration](https://de.mathworks.com/help/matlabgrader/lms-integration.html) or ask your MathWorks® representative about this option.
 
-If you mention any trademarks, all MathWorks® (including MATLAB®)  and 3rd party trademarks need to be correctly marked the first time they are prominently used in each file (including the README.MD).  
-<!--- Markdown supports the following HTML entities: © - &copy;  ® - &reg;  ™ - &trade;
-More information about Trademarks can be found internally within the Checklist for Community Contributions and Supportfiles Confluence page--->
+## MATLAB Grader Licensing
+**For instructors:** MATLAB Grader is available with all MATLAB licenses. Log in at [grader.mathworks.com](grader.mathworks.com). Additional features are available when your institution has a Campus-Wide License or Community and Technical College License. <br>
+**For learners:** Learners do not need a MATLAB license to participate in MATLAB Grader courses. Only the instructor needs a license. <br>
+**For institutions:** Some additional features like the LMS integration require a Campus-Wide License or Community and Technical College License.
 
-Please remember to delete all template related text that you are not using within your README.md
-
-<!--- Please remember to delete all template related text that you are not using within your README.md ---> 
+You can check whether your school has a Campus-Wide License here: https://www.mathworks.com/academia/tah-support-program/eligibility.html
 
 ## Setup 
 To Run:
-1. Step 1
-2. Step 2
+1. Import your data or use the example data provided. The Live Script explains how to generate the correct report from [grader.mathworks.com](grader.mathworks.com).
+2. The script offers various ways to create the grade book e.g. allowing or not allowing late submissions, counting correctly solved problems or averaging percentage scores. Run all sections or just the sections generating the relevant metrics for your use-case.
 
-Additional information about set up
 
 ### MathWorks Products (http://www.mathworks.com)
 
-Requires MATLAB release R#### or newer
-- [Product1](https://url-to-product1)
-- [Product1](https://url-to-product1)
-
-### 3rd Party Products:
-3p:
-- [Product1](https://url-to-product1)
-- [Product2](https://url-to-product2)
-
-## Installation (Optional)
-Installation instuctions
-
-Before proceeding, ensure that the below products are installed:  
-* [Product1](https://url-to-product1) 
-
-Please see the [documentation](Documentation/Installation.md) for detailed installation instructions. 
-<!--- Make sure you have a Installation.md document in the Documentation folder if you are to follow this formatting.  You can choose your own folder formatting if you prefer --->
-
-1. Step 1
-2. Step 2
-
-## Deployment Steps (Optional) 
-
-To view instructions for deploying <insert repo name>, select a MATLAB release: 
-<!--- This is for Repos that utillize Releases in GitHub --->
-
-| Release |
-| ------- |
-| [R2020a](releases/R2020a/README.md) |
-| [R2019b](releases/R2019b/README.md) |
-| [R2019a\_and\_older](releases/R2019a_and_older/README.md) |
-
-## Getting Started 
-Information about Getting Started
-<!--- List or link to any relevent Documentation to help the user Get Started --->
-
-## Examples
-To learn how to use this in testing workflows, see [Examples](/examples/). 
-<!--- Make sure you have a repo set up correctly if you are to follow this formatting --->
+Requires MATLAB release R2019b or newer.
 
 ## License
-<!--- Make sure you have a License.txt within your Repo --->
-LICENSE NAME © 2021 The MathWorks, Inc.
-
-or
-
-The license for <insert repo name> is available in the [LICENSE.TXT](LICENSE.TXT) file in this GitHub repository.
-
-Include any other License information here, including third-party content using separate license agreements 
+The license for this tool is available in the [LICENSE.TXT](LICENSE.TXT) file in this GitHub repository.
 
 ## Community Support
-[MATLAB Central](https://www.mathworks.com/matlabcentral)
+[MATLAB® Central™](https://www.mathworks.com/matlabcentral)
 
 Copyright 2021 The MathWorks, Inc.
-
-<!--- Do not forget to the add the SECURITY.md to this repo --->
-<!--- Add Topics #Topics to your Repo such as #MATLAB  --->
-
-<!--- This is my comment --->
-
-<!-- Include any Trademarks if this is the first time mentioning trademarked products (For Example:  MATLAB&reg; Simulink&reg; Trademark&trade; Simulink Test&#8482;) --> 
 
