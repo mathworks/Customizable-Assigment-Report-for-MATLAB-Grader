@@ -8,8 +8,8 @@ This script shows how to generate a grade book from the assignment reports gener
 
 This tool supports educators using MATLAB Grader who do not have access to MATLAB Grader within a learning management system. **If you have access to a Campus-Wide License and your university uses a learning management system (LMS) we strongly recommend to integrate MATLAB Grader into the LMS and to use the grade book provided by the LMS.** Refer to the documentation on [LMS Integration](https://de.mathworks.com/help/matlabgrader/lms-integration.html) or ask your MathWorks® representative about this option.
 
-## MATLAB Grader Licensing
-**For instructors:** MATLAB Grader is available with all MATLAB licenses. Log in at [grader.mathworks.com](grader.mathworks.com). Additional features are available when your institution has a Campus-Wide License or Community and Technical College License. <br>
+## MATLAB Grader Access
+**For instructors:** MATLAB Grader is available with a MathWorks Account that is associated with a current MATLAB license. Log in at [grader.mathworks.com](grader.mathworks.com). Additional features are available when your institution has a Campus-Wide License or Community and Technical College License. <br>
 **For learners:** Learners do not need a MATLAB license to participate in MATLAB Grader courses. Only the instructor needs a license. <br>
 **For institutions:** Some additional features like the LMS integration require a Campus-Wide License or Community and Technical College License.
 
