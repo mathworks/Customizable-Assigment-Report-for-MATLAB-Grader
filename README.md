@@ -8,7 +8,7 @@
 
 This script shows how to generate a customizable assignment report from the assignment reports exported from the [MATLAB® Grader™ application](https://www.mathworks.com/products/matlab-grader.html). A customizable assignment report in this case refers to a list of students with a metric that defines how well they solved the problems within the assignment. It may show the number of problems they solved correctly or the mean percentage score they received for the problems. <br>
 
-This folder contains and example assignment report (example_week.xlsx), the live script to create the customizable assignment report (customizableAssignmentReport.xlsx) and an example of a customizable assignment report exported to Excel (customizedAssignmentReport.xlsx). <br>
+This folder contains and example assignment report (example_week.xlsx), the live script to create the customizable assignment report (customizableAssignmentReport.xlsx) and an example of a customizable assignment report exported to an Excel spreadsheet (customizedAssignmentReport.xlsx). <br>
 
 To learn more about how to generate reports from MATLAB Grader, please refer to the documentation here: [Create Reports](https://www.mathworks.com/help/matlabgrader/ug/download-solution-results.html).
 
