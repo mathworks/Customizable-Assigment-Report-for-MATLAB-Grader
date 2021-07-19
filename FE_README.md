@@ -1,12 +1,13 @@
-# Use assignment report from the MATLAB® Grader™ application to generate a grade book
+# Customizable Assignment Report
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
+
+**Use the Assignment Report from the MATLAB® Grader™ application to calculate Assignment Scores for each Learner**
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
-This script shows how to generate a grade book from the assignment reports exported from the [MATLAB® Grader™ application](https://www.mathworks.com/products/matlab-grader.html). A grade book in this case refers to a list of students with a metric that defines how well they solved the problems within the assignment. It may show the number of problems they solved correctly or the mean percentage score they received for the problems.
-
-This tool supports educators using MATLAB Grader who do not have access to MATLAB Grader within a learning management system. **If you have access to a Campus-Wide License and your university uses a learning management system (LMS) we strongly recommend to integrate MATLAB Grader into the LMS and to use the grade book provided by the LMS.** Refer to the documentation on [LMS Integration](https://de.mathworks.com/help/matlabgrader/lms-integration.html) or ask your MathWorks® representative about this option.
+This script shows how to generate a Customizable Assignment Report from the Assignment Reports exported from the [MATLAB® Grader™ application](https://www.mathworks.com/products/matlab-grader.html). A Customizable Assignment Report in this case refers to a list of students with a metric that defines how well they solved the problems within the assignment. It may show the number of problems they solved correctly or the mean percentage score they received for the problems.
+To learn more about how to generate reports from MATLAB Grader, please refer to the documentation here: [Create Reports] (https://www.mathworks.com/help/matlabgrader/ug/download-solution-results.html).
 
 ## MATLAB Grader Access
 **For instructors:** You can access MATLAB Grader using your MathWorks Account that is associated with a current MATLAB license. Log in at [grader.mathworks.com](grader.mathworks.com). <br>
@@ -15,6 +16,8 @@ This tool supports educators using MATLAB Grader who do not have access to MATLA
 
 You can check whether your school has a Campus-Wide License here: https://www.mathworks.com/academia/tah-support-program/eligibility.html
 If your account is not linked to a MATLAB license, you can get started for free with a [30-day trial](https://www.mathworks.com/campaigns/products/trials.html).
+
+If you would like to pursue LMS integration and automate LMS Gradebook connectivity in lieu of using this script, please contact your MathWorks representative or contact [MathWorks sales] (https://www.mathworks.com/company/aboutus/contact_us/contact_sales.html).
 
 ## Setup 
 To Run:
