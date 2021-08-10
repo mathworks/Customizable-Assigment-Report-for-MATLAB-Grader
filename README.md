@@ -14,7 +14,7 @@ To learn more about how to generate reports from MATLAB Grader, please refer to 
 
 ## MATLAB Grader Access
 **For instructors:** You can access MATLAB Grader using your MathWorks Account that is associated with a current MATLAB license. Log in at [grader.mathworks.com](grader.mathworks.com). <br>
-**For learners:** Learners can participate in MATLAB Grader courses with a free MathWorks Account. Only the instructor needs a license. <br>
+**For learners:** Learners can participate in MATLAB Grader courses for free with a MathWorks Account. <br>
 **For institutions:** Some additional features like the Learning Management System (LMS) integration are available with a Campus-Wide License or Community and Technical College License.
 
 You can check whether your school has a Campus-Wide License here: https://www.mathworks.com/academia/tah-support-program/eligibility.html. If your account is not linked to a MATLAB license, you can get started for free with a [30-day trial](https://www.mathworks.com/campaigns/products/trials.html).
