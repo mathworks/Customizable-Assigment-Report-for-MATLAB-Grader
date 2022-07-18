@@ -13,7 +13,7 @@ This repository contains an example assignment report (example_week.xlsx), the l
 To learn more about how to generate reports from MATLAB Grader, please refer to the documentation here: [Create Reports](https://www.mathworks.com/help/matlabgrader/ug/download-solution-results.html).
 
 ## MATLAB Grader Access
-**For instructors:** You can access MATLAB Grader using your MathWorks Account that is associated with a current MATLAB license. Log in at [grader.mathworks.com](grader.mathworks.com). <br>
+**For instructors:** You can access MATLAB Grader using your MathWorks Account that is associated with a current MATLAB license. Log in at [grader.mathworks.com](https://grader.mathworks.com/). <br>
 **For learners:** Learners can participate in MATLAB Grader courses for free with a MathWorks Account. <br>
 **For institutions:** Some additional features like the Learning Management System (LMS) integration are available with a Campus-Wide License or Community and Technical College License.
 
@@ -23,7 +23,7 @@ The utility offered by this script may not be necessary when using the gradebook
 
 ## Setup 
 To Run:
-1. Import your data or use the example data provided. The live script explains how to generate the correct report from [grader.mathworks.com](grader.mathworks.com).
+1. Import your data or use the example data provided. The live script explains how to generate the correct report from [grader.mathworks.com](https://grader.mathworks.com/).
 2. The script offers various ways to create the final output of student's results e.g. allowing or not allowing late submissions, counting correctly solved problems or averaging percentage scores. Run all sections or just the sections generating the relevant metrics for your use-case.
 
 
