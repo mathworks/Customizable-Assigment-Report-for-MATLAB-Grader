@@ -31,7 +31,7 @@ To Run:
 Requires MATLAB. Tested in release R2019b and R2021a.
 
 ## License
-The license for this tool is available in the [LICENSE.TXT](LICENSE.TXT) file in this GitHub repository.
+The license for this tool is available in the License.txt file in this GitHub repository.
 
 ## Community Support
 [MATLAB® Central™](https://www.mathworks.com/matlabcentral)
