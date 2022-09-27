@@ -27,7 +27,7 @@ To Run:
 2. The script offers various ways to create the final output of student's results e.g. allowing or not allowing late submissions, counting correctly solved problems or averaging percentage scores. Run all sections or just the sections generating the relevant metrics for your use-case.
 
 
-### MathWorks Products (http://www.mathworks.com)
+### MathWorks Products (https://www.mathworks.com)
 Requires MATLAB. Tested in release R2019b and R2021a.
 
 ## License
