@@ -17,7 +17,7 @@ To learn more about how to generate reports from MATLAB Grader, please refer to 
 **For learners:** Learners can participate in MATLAB Grader courses for free with a MathWorks Account. <br>
 **For institutions:** Some additional features like the Learning Management System (LMS) integration are available with a Campus-Wide License or Community and Technical College License.
 
-You can check whether your school has a Campus-Wide License here: https://www.mathworks.com/academia/tah-support-program/eligibility.html. If your account is not linked to a MATLAB license, you can get started for free with a [30-day trial](https://www.mathworks.com/campaigns/products/trials.html).
+You can associate your email address with an existing license or access MATLAB for free. [Get MATLAB](https://login.mathworks.com/embedded-login/landing.html).
 
 The utility offered by this script may not be necessary when using the gradebook offered by your LMS. If you would like to pursue LMS integration and automate LMS Gradebook connectivity, please contact your MathWorks representative or contact [MathWorks sales](https://www.mathworks.com/company/aboutus/contact_us/contact_sales.html).
 
