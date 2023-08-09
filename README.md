@@ -28,7 +28,7 @@ To Run:
 
 
 ### MathWorks Products (https://www.mathworks.com)
-Requires MATLAB. Tested in release R2019b and R2021a.
+Requires MATLAB. Tested in releases R2019b and R2021a.
 
 ## License
 The license for this tool is available in the License.txt file in this GitHub repository.
