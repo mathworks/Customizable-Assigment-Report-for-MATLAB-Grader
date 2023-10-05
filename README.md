@@ -3,7 +3,7 @@
 
 **Use the Assignment Report from the MATLAB® Grader™ application to calculate Assignment Scores for each Learner**
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Customizable-Assigment-Report-for-MATLAB-Grader&file=https://github.com/mathworks/Customizable-Assigment-Report-for-MATLAB-Grader/blob/main/customizableAssignmentReport.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Customizable-Assigment-Report-for-MATLAB-Grader&file=customizableAssignmentReport.mlx)
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
