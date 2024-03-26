@@ -12,7 +12,7 @@ This script shows how to generate a customizable assignment report from the assi
 
 This repository contains an example assignment report (example_week.xlsx), the live script to create the customizable assignment report (customizableAssignmentReport.mlx) and an example of a customizable assignment report exported to an Excel spreadsheet (customizedAssignmentReport.xlsx). <br>
 
-To learn more about how to generate reports from MATLAB Grader, please refer to the documentation here: [Create Reports](https://www.mathworks.com/help/matlabgrader/ug/download-solution-results.html).
+To learn more about how to download submissions from MATLAB Grader, please refer to the documentation here: [Download Submissions to Analyze Learning Outcomes](https://www.mathworks.com/help/matlabgrader/ug/download-submissions-to-analyze-learning-outcomes.html).
 
 ## MATLAB Grader Access
 **For instructors:** You can access MATLAB Grader using your MathWorks Account that is associated with a current MATLAB license. Log in at [grader.mathworks.com](https://grader.mathworks.com/). <br>
